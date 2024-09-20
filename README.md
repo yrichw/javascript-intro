@@ -1,1 +1,1 @@
-# yrichw.github.io
+javascripts practice for beginners
